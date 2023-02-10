@@ -9,7 +9,7 @@
 1. [一个生成证件照的小程序，微信云原生开发小程序。](https://github.com/liuxiaojun666/ID-Photo-miniapp-wechart)
 2. [密码学工具](https://crypto-online.cn/playground/hash/)
 3. [resume-design](https://github.com/huajian-pro/resume-design), 简历生成工具。
-4. 
+4. [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume), 简历生成工具，在线渲染pdf.
 
 
 # 参考
