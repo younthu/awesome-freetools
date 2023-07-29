@@ -12,6 +12,10 @@
 4. [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume), 简历生成工具，在线渲染pdf.
 5. [Webrcade](https://github.com/webrcade/webrcade),在web里面玩经典主机游戏
 
+# 商业化工具列表
+1. [free web tool kit](https://www.freewebtoolkit.com/)
+1. [https://tool.browser.qq.com/](https://tool.browser.qq.com/)
+
 
 # 参考
 1. [Curated list of free as in freedom software](https://github.com/johnjago/awesome-free-software)
